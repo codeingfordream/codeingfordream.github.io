@@ -1,0 +1,48 @@
+#+hugo_base_dir: /home/dream/blog/
+#+hugo_section: post
+#+hugo_auto_set_lastmod: t
+#+hugo_custom_front_matter: :toc true
+#+hugo_code_fence: nil
+#+STARTUP: logdrawer
+#+OPTIONS: author:nil
+
+
+
+* Blog Ideas
+** DONE my-first-blog
+CLOSED: [2024-04-29 Mon 04:42]
+:PROPERTIES:
+:EXPORT_FILE_NAME: my-first-blog
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-04-29 Mon 04:42]
+:END:
+
+*** headline1
+**** title1
+
+*** headline2
+**** title2
+
+*** headline3
+**** title3
+** DONE my-second-blog
+CLOSED: [2024-04-29 Mon 04:46]
+:PROPERTIES:
+:EXPORT_FILE_NAME: my-second-blog
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-04-29 Mon 04:46]
+:END:
+
+*** headline1
+**** title1
+hello
+
+*** headline2
+**** title2
+world
+
+*** headline3
+**** title3
+hello world
