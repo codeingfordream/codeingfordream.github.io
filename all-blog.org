@@ -46,3 +46,19 @@ world
 *** headline3
 **** title3
 hello world
+** DONE my-third-blog
+CLOSED: [2024-05-02 Thu 00:36]
+:PROPERTIES:
+:EXPORT_FILE_NAME: my-third-blog
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-05-02 Thu 00:36]
+:END:
+
+*** headline1
+**** title1
+my-third-blog
+
+*** headline2
+
+*** headline3
